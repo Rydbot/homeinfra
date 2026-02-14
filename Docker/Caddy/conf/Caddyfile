@@ -1,6 +1,6 @@
-ocular.rydbot.me {
+sure.rydbot.me {
 
   tls internal
-  reverse_proxy 192.168.50.201:9000
+  reverse_proxy 192.168.50.201:3000
 }
 
